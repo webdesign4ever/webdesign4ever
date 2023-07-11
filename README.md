@@ -8,6 +8,10 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=webdesign4ever&label=Profile%20views&color=0047AB&style=plastic?" alt="webdesign4ever" height=25px, width=160px/> 
+	<a href="https://github.com/webdesign4ever?tab=followers">
+   <img src="https://img.shields.io/github/followers/webdesign4ever?label=Followers&style=social" alt="GitHub Badge" height=25px, width=160px>
+</a>
+
 </p>
 
 	
