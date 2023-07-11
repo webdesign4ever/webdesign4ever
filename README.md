@@ -11,7 +11,6 @@
 	<a href="https://github.com/webdesign4ever?tab=followers">
    <img src="https://img.shields.io/github/followers/webdesign4ever?label=Followers&style=social" alt="GitHub Badge" height=25px, width=160px>
 </a>
-
 </p>
 
 	
