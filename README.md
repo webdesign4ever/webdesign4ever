@@ -23,7 +23,7 @@
 -  🤝 I’m looking to collaborate on `open source projects`
 - :student: I’m currently learning `Computer Science` and `Front-End Developement Technologies`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1fv8YgYQ0N8_ZxshQuQawzh2-KVPy8AxT/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1QIs2Np_AH9ucaOpzQKOjJmFco3l4GbjB/view?usp=sharing).
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).  -->
 <br>
 
