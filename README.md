@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a Associate Software Engineer at Funavry Technologies.
+- :school: I am an Associate Software Engineer at Funavry Technologies.
 - :technologist: I love using Software as a solution for every `Problem`.
 -  🤝 I’m looking to collaborate on `open source projects`
 - :nerd_face: Always `learning new things`.
