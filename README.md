@@ -121,6 +121,7 @@
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=webdesign4ever&theme=meta-dark&hide_border=true" alt="GitHub Streak"/>
 	</a>  
+	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=webdesign4ever&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="webdesign4ever" height="230px"/>
 	<br/>
 	<br/>
 </div>
