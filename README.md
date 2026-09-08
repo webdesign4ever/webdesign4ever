@@ -22,7 +22,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 -  🤝 I’m looking to collaborate on `open source projects`
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1Ubs4WRLzqHVegnVzu9oA87nvljGqA5n2/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1nYKLp6IXtyiid3awyz1rq_GbyKeY4Uaz/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://moazzam.up.railway.app).  
 <br>
 
