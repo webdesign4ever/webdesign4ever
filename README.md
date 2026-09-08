@@ -18,10 +18,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a `Student` at Faculty of Engineering & Computer Science at `NUML University`.
+- :school: I am a Associate Software Engineer at Funavry Technologies.
 - :technologist: I love using Software as a solution for every `Problem`.
 -  🤝 I’m looking to collaborate on `open source projects`
-- :student: I’m currently learning `Computer Science` and `Front-End Developement Technologies`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1Ubs4WRLzqHVegnVzu9oA87nvljGqA5n2/view?usp=sharing).
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).  -->
