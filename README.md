@@ -105,7 +105,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webdesign4ever&theme=tokyonight_duo" alt="webdesign4ever" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=webdesign4ever&theme=algolia" alt="webdesign4ever" /></p>
 
 </details>
   
