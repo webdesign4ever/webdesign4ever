@@ -118,15 +118,14 @@
 	    <img alt="webdesign4ever's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webdesign4ever&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webdesign4ever&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/> -->
-<p align="center">
+<div align="center">
 	<a href="https://git.io/streak-stats">
-		<img alt="webdesign4ever's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=webdesign4ever&show_icons=true&count_private=true&locale=en&theme=meta-dark&hide_border=true&layout=compact" height="230px"/>
-	</a>  
+		<img alt="webdesign4ever's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=webdesign4ever&show_icons=true&count_private=true&locale=en&theme=meta-dark&hide_border=true&layout=compact" height="230px"/></a>  
 	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=webdesign4ever&langs_count=10&show_icons=true&locale=en&theme=algolia" alt="webdesign4ever" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </div>
 </details>
 	
 </br></br>
