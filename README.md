@@ -23,7 +23,7 @@
 -  🤝 I’m looking to collaborate on `open source projects`
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1Ubs4WRLzqHVegnVzu9oA87nvljGqA5n2/view?usp=sharing).
-  <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).  -->
+- :boom: You can visit [MY WEBSITE](https://moazzam.up.railway.app).  
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -117,19 +117,14 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="webdesign4ever's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webdesign4ever&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webdesign4ever&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/> -->
-<!-- <div align="center">
-	<a href="https://git.io/streak-stats">
-		<img alt="webdesign4ever's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=webdesign4ever&show_icons=true&count_private=true&locale=en&theme=meta-dark&hide_border=true&layout=compact" height="230px"/></a>  
-	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=webdesign4ever&langs_count=10&show_icons=true&locale=en&theme=algolia" alt="webdesign4ever" height="230px"/>
+<br/> 
 <br/>
-
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </div> -->
-  <p align="center">
+  </p> -->
+<p align="center">
 <a href="https://github.com/webdesign4ever">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webdesign4ever&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webdesign4ever&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webdesign4ever&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 </details>
